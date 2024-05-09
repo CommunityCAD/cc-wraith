@@ -1,6 +1,6 @@
-# FiveM Wraith ARS 2X Script
+# CommunityCAD Wraith ARS Plugin
 
-Wraith ARS 2X automated plate reading for Community CAD
+Wraith ARS 2X automated plate reading for CommunityCAD
 
 ## Install
 
